@@ -107,16 +107,3 @@ st = "asdfghjkl"
 print(st[0:7])
 print(st[0:7:2])  # adgj 2个一取，不取最后一个
 print(st[0:7:3])  # afj  3个一取
-
-
-
-
-
-
-
-
-
-
-
-
-
