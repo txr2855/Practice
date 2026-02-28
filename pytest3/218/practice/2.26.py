@@ -202,7 +202,7 @@ AI总结：
 # # li.insert("four") #报错,必须有下标
 # print(li)
 # li = [1, 2, 3]
-# # li.extend(4)  #会报错,extend里面必须是可迭代对象啊啊
+# # li.extend(4)  #会报错,extend里面必须是可迭代对象啊
 # # li.append(4)
 # print(li)
 # li.insert(3, 4)
